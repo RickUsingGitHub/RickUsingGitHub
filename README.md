@@ -12,7 +12,7 @@ usually one file you can copy anywhere and delete when you're done.
 - **[Maze Tube Designer](https://github.com/RickUsingGitHub/maze-tube-designer)** — cylinder maze
   puzzle boxes. The maze hides under the cap while you solve it, with a twist lock at the end.
 - **[Lenticular Sign Maker](https://github.com/RickUsingGitHub/lenticular-sign-maker)** — signs that
-  read **CLEAN** one way and **DIRTY** the other, printed in several colours.
+  read (for example, for your dishwasher) **CLEAN** one way and **DIRTY** the other, printed in several colours.
 
 **Learning and music**
 
@@ -20,7 +20,7 @@ usually one file you can copy anywhere and delete when you're done.
   N1: 123 lessons, role-play conversations, all 2,230 JLPT kanji with stroke order, spaced
   repetition. Windows, iPhone and Android.
 - **[TABifier](https://github.com/RickUsingGitHub/TABifier)** — sheet music, typed TAB and chord
-  charts into Score + TAB for guitar, ukulele and bass. Windows and macOS.
+  charts into Score + TAB for guitar, ukulele and bass (and any other string instrument). Windows and macOS.
 
 **Energy and evidence**
 
