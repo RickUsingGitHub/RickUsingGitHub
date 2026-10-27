@@ -1,7 +1,9 @@
 ### Hi, I'm Rick
 
-I make small, free Windows apps — mostly things I wanted and couldn't find. No ads, no
-accounts, no telemetry; usually one file you can copy anywhere and delete when you're done.
+I make small, free Windows (occasionally Android/Phone/Web) apps — 
+mostly things I wanted and couldn't find.
+No ads, no accounts, no telemetry; 
+usually one file you can copy anywhere and delete when you're done.
 
 **3D printing**
 
