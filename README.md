@@ -21,6 +21,9 @@ usually one file you can copy anywhere and delete when you're done.
   repetition. Windows, iPhone and Android.
 - **[TABifier](https://github.com/RickUsingGitHub/TABifier)** — sheet music, typed TAB and chord
   charts into Score + TAB for guitar, ukulele and bass (and any other string instrument). Windows and macOS.
+- **[Blink Metronome](https://github.com/RickUsingGitHub/blink-metronome)** — a metronome you can
+  silence while it keeps flashing the beat, so any beat can keep time without making a sound. Also a
+  tuner and a sound-level meter. Runs in the phone browser, installs to the home screen, works offline.
 
 **Energy and evidence**
 
