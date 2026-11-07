@@ -31,8 +31,9 @@ usually one file you can copy anywhere and delete when you're done.
   Electric's wholesale pricing, in the browser.
 - **[TheTotalCost](https://github.com/RickUsingGitHub/TheTotalCost)** — owner cost and environmental
   cost per kilometre: mid-size ICE versus BEV.
-- **[Big Pharma on Trial](https://github.com/RickUsingGitHub/BigPharma)** and
-  **[Big Food on Trial](https://github.com/RickUsingGitHub/BigFood)** — independent evidence
+- **[Big Pharma on Trial](https://github.com/RickUsingGitHub/BigPharma)**,
+  **[Big Food on Trial](https://github.com/RickUsingGitHub/BigFood)** and
+  **[The Medicine Ledger](https://github.com/RickUsingGitHub/BigPharma2)** — independent evidence
   summaries from court records, regulator decisions and peer-reviewed research.
 
 All of it is free. If something here has saved you time or money, you can
