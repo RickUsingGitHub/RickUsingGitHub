@@ -13,6 +13,8 @@ usually one file you can copy anywhere and delete when you're done.
   puzzle boxes. The maze hides under the cap while you solve it, with a twist lock at the end.
 - **[Lenticular Sign Maker](https://github.com/RickUsingGitHub/lenticular-sign-maker)** — signs that
   read (for example, for your dishwasher) **CLEAN** one way and **DIRTY** the other, printed in several colours.
+- **[Boxinator](https://github.com/RickUsingGitHub/boxinator)** — stackable, connectable, divided
+  boxes, parts bins, carry caddies and modular side-drawer units, all printed with no supports.
 
 **Learning and music**
 
@@ -28,13 +30,20 @@ usually one file you can copy anywhere and delete when you're done.
 **Energy and evidence**
 
 - **[Amber](https://github.com/RickUsingGitHub/Amber)** — usage, costs and bill checking for Amber
-  Electric's wholesale pricing, in the browser.
+  Electric's wholesale pricing, a comparison with other plans, and a solar and battery planner, in the browser.
 - **[TheTotalCost](https://github.com/RickUsingGitHub/TheTotalCost)** — owner cost and environmental
   cost per kilometre: mid-size ICE versus BEV.
 - **[Big Pharma on Trial](https://github.com/RickUsingGitHub/BigPharma)**,
   **[Big Food on Trial](https://github.com/RickUsingGitHub/BigFood)** and
   **[The Medicine Ledger](https://github.com/RickUsingGitHub/BigPharma2)** — independent evidence
   summaries from court records, regulator decisions and peer-reviewed research.
+
+**Small tools**
+
+- **[Amber hot water switch](https://github.com/RickUsingGitHub/AmberTuyaHotWaterSwitch)** — shows
+  Amber's live price, sounds an alarm on price spikes, and switches the hot water through a Tuya smart plug.
+- **[TinyURL Shortener](https://github.com/RickUsingGitHub/TinyURLExtension)** — a Chrome extension
+  that shortens the page you're on and copies the link.
 
 All of it is free. If something here has saved you time or money, you can
 [buy me a coffee](https://ko-fi.com/rickapps).
